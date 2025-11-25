@@ -91,6 +91,7 @@ Malicious URL Detection App
 
 Author
 
-Your Name
+Aanya Tyagi
 
 GitHub: 2415500001
+
