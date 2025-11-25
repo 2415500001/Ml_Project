@@ -39,7 +39,7 @@ It includes URL feature extraction, model training, and a simple prediction inte
 
 ## 🚀 Live Demo  
 Click here to try the project:  
-👉 *[Live Demo](https://your-deployment-link-here)*  
+👉 *[Live Demo](https://shinigami.streamlit.app/)  
 
 ---
 
@@ -78,3 +78,4 @@ Click here to try the project:
 
 ## 🙌 Author
 Made by Aanya Tyagi
+
