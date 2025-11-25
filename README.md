@@ -30,68 +30,51 @@ It is designed for *cybersecurity purposes*, helping prevent phishing, malware, 
 
 ---
 
-## Installation
+# Malicious URL Detection using Machine Learning
 
-1. *Clone the repository:*
-
-```bash
-git clone https://github.com/2415500001/Ml_Project.git
-cd Ml_Project
-
-2. Create virtual environment and activate:
-
-
-
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
-
-3. Install dependencies:
-
-
-
-pip install -r requirements.txt
-
+This project detects whether a URL is *malicious or safe* using *Machine Learning*.  
+It includes URL feature extraction, model training, and a simple prediction interface.
 
 ---
 
-How to Run
-
-streamlit run app.py
-
-The app will open in your browser.
-
-Upload URLs to check safety.
-
-Visualizations and results will be shown interactively.
-
-
+## 🚀 Live Demo  
+Click here to try the project:  
+👉 *[Live Demo](https://your-deployment-link-here)*  
 
 ---
 
-Notes
-
-Model and vectorizer files (model.pkl and vectorizer.pkl) should be placed in the project folder for the app to work.
-
-For deployment on Streamlit Cloud, you can upload these files manually or host them online and download them at runtime.
-
-
+## 📁 Project Structure
 
 ---
 
-Live Demo
+## 🧠 Model Used
 
-Try the deployed Streamlit app here:
-Malicious URL Detection App
-
+- *Random Forest Classifier*
+- Feature extraction using *TF-IDF Vectorizer (TfidfVectorizer)*
 
 ---
 
-Author
+## ⚙ How it Works
 
-Aanya Tyagi
+1. The URL is cleaned and vectorized.
+2. The trained ML model predicts:
+   - *0 → Safe URL*
+   - *1 → Malicious URL*
 
-GitHub: 2415500001
+---
 
+## 🏃 How to Run Locally
+
+---
+
+## 🌐 Deployment Steps (Render / PythonAnywhere / Streamlit)
+
+1. Upload all project files  
+2. Make sure model_rf.pkl and vectorizer.pkl are present  
+3. Deploy using the platform’s guide  
+4. Add the deployed link in the *Live Demo* section above
+
+---
+
+## 🙌 Author
+Made by Aanya Tyagi
