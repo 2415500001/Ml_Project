@@ -84,13 +84,13 @@ For deployment on Streamlit Cloud, you can upload these files manually or host t
 Live Demo
 
 Try the deployed Streamlit app here:
-https://shinigami.streamlit.app/
+Malicious URL Detection App
 
 
 ---
 
 Author
 
-Aanya Tyagi
+Your Name
 
 GitHub: 2415500001
