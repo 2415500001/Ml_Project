@@ -77,5 +77,7 @@ Click here to try the project:
 ---
 
 ## 🙌 Author
-Made by Aanya Tyagi
+Made by Aanya Tyagi & Charvi 
+
+
 
